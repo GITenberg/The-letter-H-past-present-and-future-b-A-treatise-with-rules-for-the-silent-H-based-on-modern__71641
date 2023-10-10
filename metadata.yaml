@@ -1,11 +1,16 @@
 _repo: The-letter-H-past-present-and-future-b-A-treatise-with-rules-for-the-silent-H-based-on-modern__71641
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71641-h/images/cover.jpg
 creator:
   author:
     agent_name: Leach, Alfred
     gutenberg_agent_id: '56311'
     url: http://www.gutenberg.org/2009/agents/56311
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71641#The-letter-H-past-present-and-future-b-A-treatise-with-rules-for-the-silent-H-based-on-modern_
 gutenberg_issued: '2023-09-14'
 identifiers:
   gutenberg: '71641'
